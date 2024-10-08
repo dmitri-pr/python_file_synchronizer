@@ -265,3 +265,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+/Start_local.bat
